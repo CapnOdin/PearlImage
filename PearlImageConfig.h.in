@@ -1,0 +1,5 @@
+// the configured options and settings for Tutorial
+#define PearlImage_VERSION_MAJOR @Pearl-Image_VERSION_MAJOR@
+#define PearlImage_VERSION_MINOR @Pearl-Image_VERSION_MINOR@
+#define PearlImage_VERSION_PATCH @Pearl-Image_VERSION_PATCH@
+#define PearlImage_VERSION_TWEAK @Pearl-Image_VERSION_TWEAK@
